@@ -1,6 +1,11 @@
 package com.tnsif.synchronization;
 
 public class Synchronizationdemo {
-	static
+	static synchronized
+	void display(){
+		Thread g=Thread.currentThread();
+		for
+		
+	}
 
 }
