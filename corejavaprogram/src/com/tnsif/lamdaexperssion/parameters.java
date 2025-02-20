@@ -8,6 +8,15 @@ public class parameters {
 			return (a*a*a);
 		};
 		System.out.println( bh.ace(4));
-	}
+		
+		Square ch=(int a)->{
+			return(a*a);
+		};
+		System.out.println(ch.qw(2));
+		}
+	
+	
+	
+
 
 }
